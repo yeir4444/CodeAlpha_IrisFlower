@@ -1,0 +1,6 @@
+Logistic Regression: 0.9000
+Decision Tree: 0.6333
+KNN: 0.8000
+SVM: 0.9000
+Random Forest: 0.7667
+Naive Bayes: 0.9000

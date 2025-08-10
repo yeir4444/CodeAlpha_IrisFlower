@@ -1,0 +1,11 @@
+Accuracy: 0.80
+
+              precision    recall  f1-score   support
+
+      setosa       1.00      1.00      1.00        10
+  versicolor       0.67      0.67      0.67         9
+   virginica       0.73      0.73      0.73        11
+
+    accuracy                           0.80        30
+   macro avg       0.80      0.80      0.80        30
+weighted avg       0.80      0.80      0.80        30
